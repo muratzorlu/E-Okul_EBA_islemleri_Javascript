@@ -9,6 +9,7 @@ Javascript kodlarını kolaylıkla kullanabilmek için.
 2- Url kısmına javascript notyapıştır-kısa dosyasının içindeki kodları yapıştırın.
 
 Notları aktarma:
+
 1- Excel'denki listenizi tek sütun şeklinde sürükleyerek seçin ve notları kıoylayın.
 
 2- Tarayıcıda e-okul not girişleri bölümünü açın ve tek bir not tipi seçip listeleyin.

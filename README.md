@@ -10,7 +10,7 @@ Javascript kodlarını kolaylıkla kullanabilmek için.
 
 Notları aktarma:
 
-1- Excel'denki listenizi tek sütun şeklinde sürükleyerek seçin ve notları kıoylayın.
+1- Excel'denki listenizi tek sütun şeklinde sürükleyerek seçin ve notları kopyalayın.
 
 2- Tarayıcıda e-okul not girişleri bölümünü açın ve tek bir not tipi seçip listeleyin.
 

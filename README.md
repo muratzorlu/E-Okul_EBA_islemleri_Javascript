@@ -6,7 +6,7 @@ Javascript kodlarını kolaylıkla kullanabilmek için.
 
 1- Chrome tarayıcısı yer işaretleri çubuğuna sayfa ekleyin.
 
-2- Url kısmına javascript e-OkulNotKisa.js dosyasının içindeki kodları yapıştırın.
+2- Url kısmına e-OkulNotKisa.js dosyasının içindeki kodları yapıştırın.
 
 Notları aktarma:
 

@@ -1,3 +1,5 @@
+Kullanım ve açıklamalar için https://www.muratzorlu.com/e-okul-tcnolu-liste-eba-liste/
+
 # E-okul TCNolu Liste
 
 # EBA Çalışmalar Liste
